@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <h1>React router v6</h1>
+      <h1>hoobank</h1>
     </>
   );
 }
