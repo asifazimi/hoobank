@@ -98,3 +98,6 @@ Thumbs.db
 # Migration and cleanup files (local only)
 CLEANUP_SUMMARY.md
 SOLUTIONS.md
+
+# Vercel
+.vercel
